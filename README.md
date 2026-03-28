@@ -1,6 +1,6 @@
 # Owolabi Shina James, RAS
 
-### Animal Scientist | Biostatistician | Scientific Writer | Educator
+### PhD Candidate in Animal Science | Data Scientist in Training | Biostatistician | Scientific Writer | Educator
 
 **MSc, University of Ibadan &nbsp;|&nbsp; B.Tech, FUT Minna &nbsp;|&nbsp; Diploma, FCAHPT Moor Plantation Ibadan**
 
@@ -59,7 +59,7 @@ In education, I served two years as a **Teach For Nigeria Fellow**, teaching Agr
 ## Technical Skills
 
 **Statistical Software**
-`SAS NLMIXED` `SPSS` `JASP` `Python` `Excel Solver` `MATLAB`
+`R` `SAS NLMIXED` `SPSS` `JASP` `Python` `Excel Solver` `MATLAB` `pandas` `scikit-learn` `SQL` 
 
 **Research Methods**
 `Nonlinear Regression` `Proximate Analysis` `Comparative Slaughter Technique` `Experimental Design` `Meta-Analysis`
